@@ -7,4 +7,3 @@ I'm currently a full stack developer intern, and this internship has helped me l
 and I'm currently learning new languages such as Ruby and Golang. I'm also learning more about threading, concurrency, etc.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stemcontent)](https://github.com/anuraghazra/github-readme-stats)
