@@ -6,4 +6,5 @@ I'm proficient in languages such as Java, C++, Python and JavaScript.
 I'm currently a full stack developer intern, and this internship has helped me learn more about the web, by working on real-time systems. 
 and I'm currently learning new languages such as Ruby and Golang. I'm also learning more about threading, concurrency, etc.
 
+Skills: Problem-Solving, Data Structures, Algorithms, Web Development, Software Development, and Agile development. 💻
 
